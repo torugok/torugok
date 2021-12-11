@@ -4,6 +4,6 @@
 ---
 - 🔭 I’m currently working as a dragon slayer
 - 🌱 I’m currently learning ReactJs
-- 💬 Ask me about **Python, Docker, ETL, DDD**
+- 💬 Ask me about **Python, Docker, ETL, DDD, Clean Arch**
 - 📫 How to reach me: **torugosis@gmail.com**
 ---
