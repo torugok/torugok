@@ -2,6 +2,7 @@
 <h3 align="center">A backend developer from Brazil</h3>
 
 ---
+- :computer: I graduated in Computer Engineering
 - 🔭 I’m currently working as a dragon slayer
 - 🌱 I’m currently learning ReactJs
 - 💬 Ask me about **Python, Docker, ETL, DDD, Clean Arch**
