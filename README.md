@@ -6,7 +6,7 @@
 - 🔭 I’m currently working as a dragon slayer
 - 🌱 I’m currently learning ReactJs
 - 💬 Ask me about **Python, Docker, ETL, DDD, Clean Arch**
-- 📫 How to reach me: **torugosis@gmail.com**
+- 📫 How to reach me: **torugo.dev@gmail.com**
 ---
 
 [![](https://raw.githubusercontent.com/torugok/torugok/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
