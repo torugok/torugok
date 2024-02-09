@@ -4,7 +4,7 @@
 ---
 - :computer: I graduated in Computer Engineering
 - 🔭 I’m currently working as a dragon slayer
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning Java
 - 💬 Ask me about **Python, .NET, Docker, ETL, DDD, Clean Arch**
 - 📫 How to reach me: **torugo.dev@gmail.com**
 ---
